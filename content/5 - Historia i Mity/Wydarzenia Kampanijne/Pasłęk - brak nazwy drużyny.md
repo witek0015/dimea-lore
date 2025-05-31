@@ -1,13 +1,12 @@
 ---
-publish: "true"
-created: 2025-05-16
-updated: 2025-05-18
-tags:
-  - podsumowanie
+created: 2025-05-31
+updated: 2025-05-31
+publish: true
 ---
 
->[!quote] Niektóre opowieści rodzą się z bohaterskich czynów, inne – z bezdennego kielicha i szczeniackiej niefrasobliwości. Ta zaczęła się od obu naraz.
->— *Pierre Jeoun Tzy*
+
+> [!quote] Niektóre opowieści rodzą się z bohaterskich czynów, inne – z bezdennego kielicha i szczeniackiej niefrasobliwości. Ta zaczęła się od obu naraz.  
+> — _Pierre Jeoun Tzy_
 
 Wszystko zaczęło się tam, gdzie kończy się zdrowy rozsądek – w karczmie na obrzeżach **[[10 Dystrykt (Krania)|Kranii]]** o wdzięcznej nazwie **Czarna Dupa**. Szóstka bohaterów – **[[Asterak Segor]]**, **[[Spectra]]**, **[[Jack Black, Nocny Kochanek|Jack Black]]**, **[[Mikele Angelo]]** oraz rodzeństwo Niv-Mizzet: **[[Dr’ache Morionscale Niv-Mizzet|Dr'ache]]** i **[[Deshay Kha’liana Niv-Mizzet|Deshay]]** – ocknęła się po kilku dniach libacji, świętując wzlot **Parhelionu**, latającej fortecy aniołów, symbolu porządku i pychy [[Złote Kręgi|Złotych Kręgów]]. Był śmiech, były zakłady, były legendy – lecz rankiem pozostało jedynie pulsujące pytanie: _kim do diabła dla siebie jesteśmy?_
 
@@ -17,13 +16,15 @@ Nie pytając o pozwolenie, bohaterowie oszukali straż i zeszli w podziemia. Tam
 
 Z pomocą Gixa odnaleźli drogę ku powierzchni, wiodącą przez zdradliwe tunele pajęczych potworów. Wędrówka była próbą sił i woli, lecz zakończyła się sukcesem – na granicy wyczerpania wyszli ku światłu, a Gix powrócił w mrok, do swego podziemnego królestwa.
 
-Powrót do Kranii nie przyniósł ukojenia. Miasto stało w ogniu niepokoju: **Potępieni wyszli na ulice**, a **[[Klany Gruulu (Gruul)|Gruule]]** wedarły się do miasta – nie bez pomocy z wnętrza. Ktoś otworzył im bramy.
+Nim powrócili do Kranii, bohaterowie podjęli się zadania odnalezienia zaginionego krasnoluda na południe od miasta. Znaleźli jego ciało – porzucone wśród lasów. Tam po raz pierwszy spotkali **[[Deliff Arafis|Deliffa]]**, uzdrowiciela, alchemika i wynalazcę, który odsłonił przed nimi cel swej misji – stworzenie lekarstwa na Pthisis. By tego dokonać, potrzebował trzech składników: przytomnego chorego, **[[Manalit]]** z Sinogóry i **[[Mizzium]]** z dalekiej północy.
+
+Z ciałem krasnoluda powrócili do Kranii. Wtedy rozpoczęły się dramatyczne wydarzenia: **Potępieni wyszli na ulice**, a **[[Klany Gruulu (Gruul)|Gruule]]** wedarły się do miasta – nie bez pomocy z wnętrza. Ktoś otworzył im bramy.
 
 Drużyna podzieliła się – część ruszyła szukać Gixa i Szefa, inni – Asterak, Mikele i Jack – pognali bronić sierocińca, który wychował Asteraka. Tam stanęli naprzeciw **[[Cisarzim|Cisarzima]]** – brutalnego oficera, którego pancerz lśnił jak sumienie Kranii, a serce dawno już zardzewiało. W płomieniach sierocińca, pośród dymu i popiołu, zdołali ocalić jedynie **[[Zbroja Starego Minotaura|Zbroję Starego Minotaura]]**.
 
 Zdruzgotani, dowiedzieli się, że Gix i Szef zostali pojmani i wywiezieni **Parhelionem** do [[1 Dystrykt (Ostronia)|Ostronii]] – miasta portalu, gdzie więzienie i polityka splatają się w duszącym uścisku.
 
-Wtedy pojawił się **[[Deliff Arafis]]** – uzdrowiciel, alchemik, wynalazca. Zaproponował drogę do uleczenia Pthisis, lecz postawił warunki: przytomny chory, **[[Manalit]]** z Sinogóry oraz rzadkie **[[Mizzium]]**. Manalit obiecał załatwić, resztę złożył w ich ręce.
+Wtedy Deliff ponownie się pojawił. Zaproponował współpracę – a drużyna, świadoma stawki, ruszyła jego śladem.
 
 Asterak, pchany własnym niepokojem, udał się do **[[7 Dystrykt (Darolew)|Darolewu]]**, by odwiedzić brata. Odkrył tam gorzką prawdę – choroba sięgnęła również jego rodziny.
 
@@ -35,6 +36,12 @@ Zanim jednak wyruszyli na północ, drużyna udała się do **Darolewa**, aby uz
 
 Dopiero stamtąd, z pełnymi jukami i nowymi towarzyszami historii, skierowali się ku **[[Czerwone Pustkowia|Czerwonym Pustkowiom]]**, do wioski smoków – **[[Wioska Ametystowych Smoków|Teryathe]]**.
 
-Tam Deshay musiała stawić czoła własnym demonom. Jej rodzice, niegdyś wpływowi, zostali odsunięci z rady za jej ucieczkę. Mimo to przyjęli córkę z radością. Lecz święto nie trwało długo – **białe smoki** runął na Teryathe jak lodowy kat, porywając mieszkańców i siejąc zniszczenie.
+Tam Deshay musiała stawić czoła własnym demonom. Jej rodzice, niegdyś wpływowi, zostali odsunięci z rady za jej ucieczkę. Mimo to przyjęli córkę z radością. Lecz święto nie trwało długo – **białe smoki** runęły na Teryathe jak lodowy kat, porywając mieszkańców i siejąc zniszczenie.
 
 Drużyna nie zawahała się ani chwili. Pościg przez ośnieżone ostępy zakończył się krwawą bitwą – białe smoki padły, a porwani zostali ocaleni. Echo tej bitwy odbija się do dziś wśród szczytów.
+
+Tak kończy się **Akt I** – nie zamknięciem, lecz wdechem przed kolejnym krokiem.
+
+---
+
+_Tam, gdzie inni widzą kres, bohaterowie widzą początek._
