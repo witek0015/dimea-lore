@@ -1,5 +1,7 @@
 ---
-tags: party
+tags:
+  - postaci
+  - druzyna
 created: 2025-07-03
 updated: 2025-07-03
 publish: true

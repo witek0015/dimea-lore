@@ -4,7 +4,7 @@ tags:
 created: 2025-05-31
 updated: 2025-07-03
 publish: true
-css-classes: inline-image
+cssclasses: inline-image
 ---
 Dolina Węży, jak ją zwą zarówno kartografowie, jak i szeptem handlarze miksturami, to dziki, nieujarzmiony zakątek południowego wybrzeża [[Złote Kręgi|Złotych Kręgów]], leżący tuż poniżej religijnej enklawy [[9 Dystrykt (Białałaska)|Białałaski]]. Rozciąga się wzdłuż stromych klifów [[Ocean Południowy|Oceanu Południowego]], gdzie z wolna spływa ku brzegom Rzeka Ołowiana – wód pozornie spokojnych, lecz zdradliwych jak ich imię.
 

@@ -3,7 +3,7 @@ tags:
   - miejsce
 created: 2025-05-31
 updated: 2025-07-03
-css-classes: inline-image
+cssclasses: inline-image
 publish: true
 ---
 > [!quote] To nie woda czyni to miejsce świętym, lecz to, co się w niej odbija – twarze tych, których utraciliśmy, i tych, którymi mieliśmy się stać. Łza Athreosa nie płynie – ona trwa. I patrzy.
