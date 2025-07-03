@@ -8,9 +8,9 @@ cssclasses: inline-image
 ---
 Dolina Węży, jak ją zwą zarówno kartografowie, jak i szeptem handlarze miksturami, to dziki, nieujarzmiony zakątek południowego wybrzeża [[Złote Kręgi|Złotych Kręgów]], leżący tuż poniżej religijnej enklawy [[9 Dystrykt (Białałaska)|Białałaski]]. Rozciąga się wzdłuż stromych klifów [[Ocean Południowy|Oceanu Południowego]], gdzie z wolna spływa ku brzegom Rzeka Ołowiana – wód pozornie spokojnych, lecz zdradliwych jak ich imię.
 
-|![[dolinawezy.png]] |
-|-|
-|*Liczne pnącza i liany wyglądają tu niemal jak żywe*|
+| ![[dolinawezy.png]] |
+| - |
+| *Liczne pnącza i liany wyglądają tu niemal jak żywe*|
 
 Nazwa doliny nie jest tylko metaforą – lokalna fauna obfituje w dziesiątki gatunków węży, w tym legendarną **Aspektynę Phariki**, boską formę węża, widzianą ponoć tylko raz na przestrzeni pięciu stuleci. Trucizna jest tu równie naturalna jak deszcz, a ziele uzdrawiające może zabić niewprawną dłoń szybciej niż ostrze.
 
