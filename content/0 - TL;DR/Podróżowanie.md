@@ -5,10 +5,11 @@ banner: "[[travel.jpg]]"
 banner_y: 0.83
 publish: "true"
 created: 2025-05-11
-updated: 2025-05-12
+updated: 2025-05-31
 cssclasses:
   - inline-image
 ---
+
 >[!quote] "Podróżowanie w Złotych Kręgach to sztuka wyboru pomiędzy wygodą a przygodą. Im szybciej się przemieszczasz, tym mniej widzisz. Ale powiedz mi, drogi wędrowcze – co jest cenniejsze: czas czy wspomnienia?"
 >– _Pierre Jeoun Tzy, zapalony podróżnik bez konia_
 

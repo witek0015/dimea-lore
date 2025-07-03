@@ -1,6 +1,6 @@
 ---
 created: 2025-05-31
-updated: 2025-05-31
+updated: 2025-07-03
 publish: true
 ---
 
@@ -40,7 +40,13 @@ Tam Deshay musiała stawić czoła własnym demonom. Jej rodzice, niegdyś wpły
 
 Drużyna nie zawahała się ani chwili. Pościg przez ośnieżone ostępy zakończył się krwawą bitwą – białe smoki padły, a porwani zostali ocaleni. Echo tej bitwy odbija się do dziś wśród szczytów.
 
-Tak kończy się **Akt I** – nie zamknięciem, lecz wdechem przed kolejnym krokiem.
+Po krótkiej celebracji w Teryathe, drużyna wyruszyła na południe, by dostarczyć zdobyte **[[Mizzium]]** do Deliffa. W drodze przemierzali opuszczone kopalnie, gdzie **[[Jack Black, Nocny Kochanek|Jack]]** odnalazł tajemniczy sztylet – nazwany później **Kłem Rakdosa** – do którego niemal natychmiast się przywiązał. Każda próba pozbycia się ostrza kończyła się fiaskiem, co wywołało napięcia w grupie i niepokój co do jego pochodzenia.
+
+Na stepach **[[Czerwone Pustkowia|Czerwonych Pustkowi]]** dostrzegli, że są śledzeni przez **[[Klany Gruulu (Gruul)|Gruuli]]**, którzy rozbili karawanę elfów – tę samą, której wcześniej udzielili pomocy w drodze do Teryathe. Po szybkiej ocenie sił zdecydowali się nie podejmować walki i ruszyć dalej.
+
+Po drodze zwerbowali **wiejską zielarkę z osady Pionierów** do sprawy Deliffa, poszerzając jego zaplecze o kolejną, oddaną duszę. W Darolewie spotkali się na krótko z **[[Tocasia|Tocasią]]**, przekazując jej raport i punkty zainteresowania na pustkowiach.
+
+Dowóz Mizzium do Deliffa zakończył się sukcesem.
 
 ---
 

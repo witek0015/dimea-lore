@@ -1,6 +1,8 @@
 ---
 tags:
   - postaci
+created: 2025-05-31
+updated: 2025-07-03
 ---
 >[!quote] „Niektóre rzeczy powinny pozostać pogrzebane. A jeśli słyszysz imię Anabell Montegue w kontekście zbyt pięknych obietnic – uciekaj. Jeśli widzisz kobietę, której spojrzenie zdaje się czytać twoją duszę – błagaj o szybką śmierć. Bo jeśli to Olivia Markov, to znaczy, że jesteś już martwy, tylko jeszcze o tym nie wiesz.”
 >_—Pierre Jeoun Tzy, badacz mroczych sekretów, któremu nie pozostała już żadna krew do wyssania._
@@ -23,7 +25,7 @@ Podczas oblężenia **Casta Vanita**, Olivia pozostała u boku Edgara do samego 
 To jego ostrze przeszyło Olivię, pozostawiając bliznę od górnej części lewej piersi, przez klatkę piersiową, aż po prawy bok. Widziała na własne oczy, jak Sorin uśmierca Edgara. Gdy łowcy wampirów opuścili ruiny Casta Vanita, Olivia, wycieńczona i pokonana, zebrała prochy swego pana do urny i skryła się w swojej trumnie, zapadając w wielowiekowy sen.
 ## **Obecnie**
 Po 800 latach Olivia została przypadkowo przebudzona przez grupę poszukiwaczy przygód. Ich krew była pierwszym pokarmem, jakiego zaznała od stuleci. Po odzyskaniu sił przeszukała ruiny **Biblioteki Wampirów**, gdzie odnalazła wzmianki o **[[Starożytny Rytuał Erebosa]]**, zdolnych przywrócić zmarłych do życia.
-Z tym celem w sercu opuściła wyspę i udała się na kontynent. Przyjęła nową tożsamość – **[[Anabell Montegue]]**, rzekomą córkę szlachcica z pomniejszego rodu. Olivia uprowadziła i zamordowała prawdziwą Anabell, przejmując jej miejsce. Teraz, skryta pod tą fałszywą tożsamością, knuje i spiskuje, szukając sposobu na wskrzeszenie Edgara Markova.
+Z tym celem w sercu opuściła wyspę i udała się na kontynent. Przyjęła nową tożsamość – **[[Olivia Markov]]**, rzekomą córkę szlachcica z pomniejszego rodu. Olivia uprowadziła i zamordowała prawdziwą Anabell, przejmując jej miejsce. Teraz, skryta pod tą fałszywą tożsamością, knuje i spiskuje, szukając sposobu na wskrzeszenie Edgara Markova.
 # **Wygląd i Zachowanie**
 Pod nową tożsamością Olivia wygląda jak prawdziwa arystokratka:
 - **Rude, falowane włosy** do ramion,
