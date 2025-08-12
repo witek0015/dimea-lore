@@ -5,7 +5,7 @@ tags:
   - miasto
 publish: "true"
 created: 2025-05-10
-updated: 2025-05-18
+updated: 2025-08-06
 cssclasses:
   - inline-image
 aliases:
@@ -74,7 +74,7 @@ W pamięci starszego pokolenia pozostała data, gdy **Brama Wymiarów** została
     - Powstałe w wyniku porzucania okrętów niezdolnych do rejsu tuż za portem, szczególnie po Katastrofie Klifowej i okresach ciężkich sztormów.
     - Legenda mówi o _Magicznej Fali_, która napełniła okręty klątwą, przez co czasem w nocy słychać jęki „statków-widm” wypełnionych duszami zmarłych marynarzy.
 
-|![[Pasted image 20240424213017.png]]|
+|![[ostronia_clean.png]]|
 |-|
 | *Plan miasta*|
 

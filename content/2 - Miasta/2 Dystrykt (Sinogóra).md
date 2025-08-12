@@ -4,8 +4,9 @@ banner_y: 0.758
 tags:
   - miasto
 publish: "true"
+cssclasses: showoff-image
 created: 2025-05-10
-updated: 2025-05-18
+updated: 2025-08-06
 aliases:
   - Sinogóra
   - Sinogórą

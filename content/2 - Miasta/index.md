@@ -8,6 +8,6 @@ Każde z nich bije innym rytmem, oddycha innym powietrzem, skrywa inne kłamstwo
 >[!quote] Z wysokości murów każde miasto wygląda bezpiecznie. Z poziomu ulicy — już nie
 >—*Pierre Jeoun Tzy*
 
-|   ![[Pasted image 20250509144422.png]]  |
+|   ![[kraniapanorama.png]]  |
 | --- |
 |   *Panorama Kranii*  |

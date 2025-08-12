@@ -8,7 +8,7 @@ cssclasses:
   - inline-image
 ---
 
-|![[Pasted image 20250516142738.png]]|
+|![[elhazar.png]]|
 |-|
 |*Magia od zawsze towarzyszyła Dimei*|
 

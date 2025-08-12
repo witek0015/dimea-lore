@@ -11,7 +11,7 @@ cssclasses:
 > [!quote] „Gdy wpadłem na tego rogacza, byłem pewien, że woli rąbać wrogów niż zamykać sierociniec. A on? Wali głową w tarczę jak ja w targowisko przed świtem — tyle że jemu się to zawsze opłaca!”
 > — _Pierre Jeoun Tzy, obserwator minotaurzych ambicji_
 
-| ![[Pasted image 20250514194313.png]]|
+| ![[asterak.png]]|
 |-|
 |*Potężny wojownik, ogień i stal* |
 
