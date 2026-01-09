@@ -1,4 +1,4 @@
----
+ae---
 tags:
   - dzielnica
 publish: "true"
@@ -8,7 +8,7 @@ cssclasses:
 >[!quote] Nie każdy kamień musi być uderzony. Niektóre uczą nas, jak milczeć.
 — _Pierre Jeoun Tzy, ostentacyjny słuchacz ciszy_
 
-|   |
+| ![[kamiennyspokoj.png]]  |
 | --- |
 | ** |
 

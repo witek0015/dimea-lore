@@ -25,11 +25,11 @@ W historii Dimei nie brakło uczonych, których czyny wyprzedzały swoje czasy. 
 
 ## Dolne Kręgi Kranii
 
-Deliff Arafis urodził się w [[Plaza Południowa]], dzielnicy [[10 Dystrykt (Krania)]], gdzie dym magitechnicznych kominów mieszał się z wonią leczniczych ziół. Już w dzieciństwie wykazywał niezwykłą empatię i przenikliwość – cechy, które szybko zauważono i skierowano na ścieżkę akademicką.
+Deliff Arafis urodził się w [[Plaza Południowa|Plazie Południowej]], dzielnicy [[10 Dystrykt (Krania)|Kranii]], gdzie dym magitechnicznych kominów mieszał się z wonią leczniczych ziół. Już w dzieciństwie wykazywał niezwykłą empatię i przenikliwość – cechy, które szybko zauważono i skierowano na ścieżkę akademicką.
 
 ## Wczesna edukacja i wybór ścieżki
 
-Uczył się pod okiem mistrzów zarówno z [[Krańska Akademia Magiczna]], jak i przyklasztornych uzdrowicieli, lecz nigdy nie dał się zamknąć w jednym nurcie. Łączył medycynę z mechaniką, teorię z praktyką, a przede wszystkim – postęp z etyką. 
+Uczył się pod okiem mistrzów zarówno z [[Krańska Akademia Magiczna|Krańskiej Akademii Magicznej]], jak i przyklasztornych uzdrowicieli, lecz nigdy nie dał się zamknąć w jednym nurcie. Łączył medycynę z mechaniką, teorię z praktyką, a przede wszystkim – postęp z etyką. 
 
 # **Osiągnięcia i dzieła**
 
@@ -42,31 +42,13 @@ Deliff jest autorem wielu przełomowych dzieł, m.in.:
 
 Wspomniane prace do dziś są cytowane w lubrzańskich kręgach uzdrowicieli i przywoływane podczas obrad Rady Innowacji Sinogóry.
 
-## Wynalazki i praktyka
-
-Największym wynalazkiem Deliffa pozostaje **Mobilny Ośrodek Rekonstrukcyjny**, samonapędzający się pojazd-klinika zdolny do przeprowadzania zaawansowanych zabiegów z dala od miejskich ośrodków. Był to dar dla wygnańców, biedoty, rannych i zapomnianych – zresztą tak jak i sam Deliff.
-
 # **Wygnanie i niezależność**
 
 ## Odejście z Kręgów
 
-Deliff opuścił Kranię nie z przymusu, lecz z godnością. Nieprzyjęcie jego projektów przez [[Rada Międzydzielnicowa]] oraz niechęć do poddania swoich badań kontroli politycznej skutkowały wygnaniem formalnym – choć sam Deliff nigdy nie skomentował tej decyzji. Pozostawił po sobie laboratorium, bibliotekę i pacjentów, których leczenie kontynuowali jego uczniowie.
+Deliff opuścił Kranię nie z przymusu, lecz z godnością. Nieprzyjęcie jego projektów przez [[Rada Międzydzielnicowa|Radę Międzydzielnicową]] oraz niechęć do poddania swoich badań kontroli politycznej skutkowały wygnaniem formalnym – choć sam Deliff nigdy nie skomentował tej decyzji. Pozostawił po sobie laboratorium, bibliotekę i pacjentów, których leczenie kontynuowali jego uczniowie.
 
 ## Życie na rubieżach
 
 Osiedlił się w półdzikich rejonach na południe od Kranii, gdzie prowadzi niezależną praktykę. Tam, gdzie inni widzieli pustkowie, on zobaczył ludzi. Tam, gdzie inni tracili nadzieję – on ją przywracał.
-
-# **Wizerunek w oczach ludu**
-
-## „Czarny Lekarz”
-
-Wśród mieszkańców [[Czerwone Pustkowia]] mówi się o nim: _„Czarny Lekarz przynosi ból – tylko po to, by go zmyć.”_ Jego sylwetka w ciemnym płaszczu, przemykająca przez mgły, stała się symbolem nadziei i ulgi.
-
-> [!quote] _„Nie każde ciało da się naprawić. Ale każdej duszy można podać dłoń.”_  
-> — _Deliff Arafis, „Równowaga: O harmonii duszy”_
-
-## Sojusznicy i uczniowie
-
-Deliff nie działa samotnie – wokół niego krążą uzdrowiciele, uczniowie, nawet kilku emerytowanych żołnierzy. Choć nie tworzy gildii, wielu widzi w nim przywódcę nowego nurtu – praktycznego, niezależnego i pełnego współczucia.
-
 

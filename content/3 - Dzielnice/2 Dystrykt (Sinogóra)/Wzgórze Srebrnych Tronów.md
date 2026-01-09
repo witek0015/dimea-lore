@@ -36,4 +36,3 @@ Z uwagi na strategiczne znaczenie i szacunek, jaki wzbudza, życie codzienne tut
 
 # **Ciekawostki i Wątki**
 - **Trzy z Tronów Rady są puste** – należały do klanów, które zaginęły podczas [[Wielka Wojna z Północą|Wielkiej Wojny z Północą]] lub odwróciły się od miasta. Puste trony budzą respekt i strach.
-- Plotki mówią, że **Sala Bankietowa Złoty Refleks posiada drugą wersję... odbitą w snach**. Kto śni o tej sali, widzi przyszłe decyzje Rady.

@@ -30,8 +30,8 @@ cssclasses:
     - Każda karawana jest oznaczona symbolem koła otoczonego czterema strzałkami, symbolizującym cztery strony świata.
     - Gildia jest znana z tego, że opiera się rabunkom, dzięki dodatkowym magicznym zabezpieczeniom powozów.
     - Każdy wóz jest wynajęty na konkretną ilość czasu, w przypadku nie zwrócenia wozu do lokalu Stowarzyszenia, wóz jest automatycznie teleportowany (bez zawartości) do najbliższego miasta.
-# **„Lotne Pióro” – Sieć Kurierów**
-**Opis**: Organizacja, która zajmuje się szybkim i bezpiecznym dostarczaniem wiadomości. Ich kurierzy przemieszczają się konno, pieszo lub przy użyciu małych magicznych ptaków stworzonych przez Kombinat Biomancji.
+# **„INPOST - Inicjatywa Nowego Porządku Obsługi Szlaków Transportowych (Ex "Lotne Pióro”) – Sieć Kurierów**
+**Opis**: Organizacja, która zajmuje się szybkim i bezpiecznym dostarczaniem wiadomości. Ich kurierzy przemieszczają się konno, pieszo lub przy użyciu małych magicznych ptaków stworzonych przez Kombinat Biomancji. Wprwadzają innowacyjny sposób na wysyłkę drobnych przedmiotów i listów, tzw. "Paczkomaty®"
 
 **Metody dostarczania wiadomości**:
     - **Kurierzy piesi**: Do krótkich dystansów w obrębie miast.
